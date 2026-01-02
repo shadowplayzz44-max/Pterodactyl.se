@@ -40,5 +40,4 @@ Recommended:
 ## ▶️ One Command Installation
 Run this command in terminal:
 
-```bash
-bash <(curl -s https://raw.githubusercontent.com/shadowplayzz44-max/pterodactyl.sh/main/Install.sh)
+```bash <(curl -s https://raw.githubusercontent.com/shadowplayzz44-max/pterodactyl.sh/main/Install.sh)
